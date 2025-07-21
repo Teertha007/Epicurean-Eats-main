@@ -13,7 +13,7 @@ import SignUp from './Pages/SignUp';
 import PrivateRoutes from './PrivateRoutes';
 import Dashboard from './Layout/Dashboard';
 import MyCart from './DComponents/MyCart';
-import DUsers from './DComponents/Dusers';
+import DUsers from './DComponents/DUsers';
 import AdminRoutes from './AdminRoutes';
 import AddItem from './DComponents/AddItem';
 import ManageItem from './DComponents/ManageItem';

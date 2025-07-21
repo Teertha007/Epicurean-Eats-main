@@ -43,14 +43,14 @@ const Footer = () => {
                 <div>
                     <h2 className='text-lg font-semibold'>Contact</h2>
                     <p className='text-sm my-2'>Near Your Home, 24/7</p>
-                    <p className='text-sm my-2'>+8801791507027</p>
-                    <p className='text-sm my-2'>+8801644997904</p>
+                    <p className='text-sm my-2'>+8801705308497</p>
+                    <p className='text-sm my-2'></p>
                     {/* <div className='space-x-3'>
                         <a href="https://www.facebook.com/profile.php?id=100007217809134" target='_blank'> <Facebook></Facebook></a>
                         <a href="https://www.instagram.com/sifat10/" target='_blank'> <Instagram></Instagram></a>
                         <a href="https://github.com/Sifat-E-Sadakin" target='_blank'> <GitHub></GitHub></a>
                     </div> */}
-                    <p className='text-sm my-2'>sifat.e.sadakin@g.bracu.ac.bd</p>
+                    <p className='text-sm my-2'>teertha.sarker.3@gmail.com</p>
 
                 </div>
 
@@ -61,7 +61,7 @@ const Footer = () => {
 
             <div className='container mx-auto md:flex justify-between'>
                 <p><small>@ <b>Epicurean Eats.</b> All Right Reserved</small></p>
-                <p>Powered by <b>Sifat-E-Sadakin</b></p>
+                <p>Powered by <b>Teerthanker Sarker</b></p>
             </div>
 
 
